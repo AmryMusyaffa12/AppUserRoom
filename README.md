@@ -1,4 +1,4 @@
-📱 User Management App
+ User Management App
 
 Aplikasi Android sederhana untuk mengelola data pengguna (User Management) dengan fitur CRUD (Create, Read, Update, Delete).
 
@@ -7,9 +7,8 @@ Aplikasi Android sederhana untuk mengelola data pengguna (User Management) denga
 User Management App merupakan aplikasi Android yang dibuat untuk mempermudah pengelolaan data pengguna. Aplikasi ini menyediakan antarmuka sederhana untuk menambahkan, melihat, memperbarui, dan menghapus informasi pengguna berupa nama dan email.
 
 📖 Screenshot/ Tampilan
-![Screenshot Tampilan](https://github.com/aldyrialdy/AppUserRoom/blob/master/Screenshot_20261112_114802.png)
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-12 at 14 21 05" src="https://github.com/user-attachments/assets/312db1a6-7743-4461-9179-692470669b97" />
 
-✨ Features
 Add User – Menambahkan data pengguna baru berupa nama dan email.
 Read User – Menampilkan daftar pengguna yang telah tersimpan.
 Update User – Memperbarui informasi nama dan email pengguna.
@@ -21,16 +20,15 @@ Berikut adalah tampilan aplikasi User Management:
 
 !User Management App Screenshot
 
-🛠️ Built With
+Built dengan platform
 Android Studio
 Android SDK
 Kotlin / Java
 Gradle
-🚀 Getting Started
+Getting Started
 Clone repository ini:
 bash
-git clone https://github.com/aldyrialdy/AppUserRoom
-
+git clone :https://github.com/AmryMusyaffa12/AppUserRoom
 Buka project menggunakan Android Studio.
 Tunggu proses Gradle Sync selesai.
 Jalankan aplikasi menggunakan Android Emulator atau perangkat Android.
